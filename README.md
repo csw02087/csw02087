@@ -15,8 +15,9 @@
 
 | Period | Degree | Institution |
 |--------|--------|-------------|
-| Mar 2021 – Aug 2026 | B.B.A. in Business Administration & B.S. in Big Data Science *(Double Major)* | Hanyang University |
 | Aug 2026 – Dec 2027 | M.S. in Business Analytics *(Specialized in FinTech)* | Washington University in St. Louis |
+| Mar 2021 – Aug 2026 | B.S. in Business Administration & Big Data Science (Double Major) | Hanyang University |
+
 
 ---
 
