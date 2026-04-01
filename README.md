@@ -13,20 +13,17 @@
 
 ## 🎓 Education
 
-| Period | Degree | Institution |
-|--------|--------|-------------|
-| Aug 2026 – Dec 2027 | M.S. in Business Analytics *(Specialized in FinTech)* | Washington University in St. Louis |
-| Mar 2021 – Aug 2026 | B.S. in Business Administration & Big Data Science (Double Major) | Hanyang University |
+**Washington University in St. Louis** — M.S. in Business Analytics *(FinTech)*
+`Aug 2026 – Dec 2027`
 
+**Hanyang University** — B.B.A. & B.S. in Business Administration / Big Data Science
+`Mar 2021 – Aug 2026`
 
 ---
 
 ## 🔍 Interests
 
-```
-AI / Machine Learning    NLP & RAG Pipelines    Business Intelligence
-Financial Analytics      Data-Driven Strategy    Quantitative Research
-```
+`AI/ML` &nbsp; `NLP` &nbsp; `RAG` &nbsp; `Business Intelligence` &nbsp; `FinTech` &nbsp; `Quantitative Analysis` &nbsp; `Data-Driven Strategy`
 
 ---
 
