@@ -29,8 +29,6 @@
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -46,15 +44,3 @@
 - 📈 Building skills in **BI tooling**, **statistical modeling**, and **NLP pipelines**
 
 ---
-
-## 📫 Get in Touch
-
-Feel free to reach out for collaboration, research, or just a chat!
-
-✉️ [csw02087@hanyang.ac.kr](mailto:csw02087@hanyang.ac.kr)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sangwoochon&style=flat-square&color=blue" alt="Profile views"/>
-</p>
