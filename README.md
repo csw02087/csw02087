@@ -16,7 +16,7 @@
 **Washington University in St. Louis** — M.S. in Business Analytics *(FinTech)*
 `Aug 2026 – Dec 2027`
 
-**Hanyang University** — B.B.A. & B.S. in Business Administration / Big Data Science
+**Hanyang University** — B.S. in Business Administration / Big Data Science (Double Major)
 `Mar 2021 – Aug 2026`
 
 ---
