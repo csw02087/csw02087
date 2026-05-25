@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:csw02087@gmail.com">
-  </a>
+  <a href="mailto:csw02087@gmail.com">📧 csw02087@gmail.com</a>
 </p>
 
 ---
