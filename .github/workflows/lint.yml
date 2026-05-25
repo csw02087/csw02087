@@ -1,0 +1,44 @@
+name: Lint & Validate
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  markdown-lint:
+    name: Markdown Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Lint Markdown files
+        uses: DavidAnson/markdownlint-cli2-action@v16
+        with:
+          globs: "**/*.md"
+
+  notebook-validate:
+    name: Notebook Validation
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install jupyter nbconvert
+
+      - name: Validate notebooks (check for syntax errors)
+        run: |
+          find . -name "*.ipynb" -not -path "./.git/*" | while read nb; do
+            echo "Validating: $nb"
+            jupyter nbconvert --to script "$nb" --stdout > /dev/null
+            echo "✓ $nb is valid"
+          done
