@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:csw02087@hanyang.ac.kr">
+  <a href="mailto:csw02087@gmail.com">
   </a>
 </p>
 
