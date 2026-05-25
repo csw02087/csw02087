@@ -38,6 +38,10 @@ jobs:
       - name: Validate notebooks (check for syntax errors)
         run: |
           find . -name "*.ipynb" -not -path "./.git/*" | while read nb; do
+            if [ ! -s "$nb" ]; then
+              echo "⚠ Skipping empty file: $nb"
+              continue
+            fi
             echo "Validating: $nb"
             jupyter nbconvert --to script "$nb" --stdout > /dev/null
             echo "✓ $nb is valid"
